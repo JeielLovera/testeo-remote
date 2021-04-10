@@ -11,11 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://dash128@bitbucket.org/teamweuvapp/weuvapp.git"
+    "url": "git+https://github.com/JeielLovera/testeo-remote.git"
   },
   "author": "",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/teamweuvapp/weuvapp#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "compression": "^1.7.4",
